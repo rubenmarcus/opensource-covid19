@@ -1,2 +1,9 @@
 # opensource-covid19
 Open Source covid19 projects
+
+# Brasil
+| Project                                                       | Description                                                                                                                                                                                          | Technology                | Location | Website                                           |
+|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|----------|---------------------------------------------------|
+| [turicas/covid19-br ](https://github.com/turicas/covid19-br ) | Dados diários mais recentes do coronavírus por município brasileiro, Repositório do dataset de covid19 do site Brasil.io, esse repositório é a origem de dados de vários dashboard usados no Brasil. | Python, Shell, HTML, TSQL |          | [Link  ](https://brasil.io/dataset/covid19/caso ) |
+|                                                               |                                                                                                                                                                                                      |                           |          |                                                   |
+|                                                               |                                                                                                                                                                                                      |                           |          |                                                   |
